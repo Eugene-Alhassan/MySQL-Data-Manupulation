@@ -1,2 +1,2 @@
 # MySQL-Data-Manupulation
-My assisgnments from 365 Data Science
+My practical assisgnments from 365 Data Science
