@@ -1,0 +1,23 @@
+# Query 1
+SELECT 
+    *
+FROM
+    employees
+WHERE
+    FIRST_NAME Like ('Mark%');
+    
+# Query 2
+SELECT 
+    *
+FROM
+    employees
+WHERE
+    hire_date LIKE ('%2000%'); 
+    
+# Query 3
+SELECT 
+    *
+FROM
+    employees
+WHERE
+    emp_no LIKE ('1000_'); 
