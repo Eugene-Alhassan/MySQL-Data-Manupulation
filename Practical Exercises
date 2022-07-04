@@ -4,3 +4,4 @@ Retrieve a list with all employees whose employee number is written with 5 chara
 Select all the information from the "salaries" table regarding contracts from 66,000 to 70,000 dollars per year
 Retrieve a list with all individuals whose employee number is not between "10004" and "10012"
 Select the names of all departments with numbers between "d003" and "d006".
+Extract a list containing information about all managers' employee number, first and last name, department number, and hire date
