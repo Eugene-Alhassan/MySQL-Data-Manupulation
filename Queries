@@ -1,1 +1,11 @@
-
+# Task 1 - Query
+SELECT 
+    d.dept_name, e.gender, COUNT(*) AS num_of_employees
+FROM
+    t_employees e
+        JOIN
+    t_dept_emp de ON de.emp_no = e.emp_no
+        JOIN
+    t_departments d ON de.dept_no = d.dept_no
+GROUP BY d.dept_name, e.gender
+ORDER BY dept_name;
