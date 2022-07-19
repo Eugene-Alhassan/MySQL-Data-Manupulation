@@ -1,3 +1,5 @@
 # Business Questions 
 # Task 1 - create a visualization that provides a breakdown between the male and female employees working in the company each year, starting from 199
 # Task 2: Compare the number of male managers to the number of female managers from different departments for each year, starting from 1990
+#Task 3: compare the average salary of female versus male employees in the entire compny until year 2002 and add a filter allowing you to see that per each department
+# Task 4: create an SQL stored procedure that will allow you to obtain the average male and female salary per department within a certain salary range. let this range be defined by two values the user can insert when calling the procedure. finally, visualize the obtained result-set in Tableau as a double bar chart
