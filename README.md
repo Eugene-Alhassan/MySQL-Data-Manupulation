@@ -1,1 +1,1 @@
-My 365DATA_SCIENCE practical exams
+365DataScience practical exams
